@@ -19,4 +19,6 @@ Here is the list of resources I'm using to learn Assembly.
 
 8. A Practical Introduction To Solidity Assembly: Part 1 by Naveen - https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/PpA5KdQhrE_2Bf-USfKePROJ5tE-raL7_VGBR8HE39E
 
-9. Yul EVM Dialect - https://docs.soliditylang.org/en/v0.8.13/yul.html#evm-dialect
+9. A Practical Introduction To Solidity Assembly: Part 2 by Naveen - https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/Hh69VJWM5eiFYFINxYWrIYWcRRtPm8tw3VFjpdpx6T8
+
+10. Yul EVM Dialect - https://docs.soliditylang.org/en/v0.8.13/yul.html#evm-dialect
