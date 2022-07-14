@@ -2,7 +2,6 @@
 
 Here is the list of resources I'm using to learn Assembly.
 
-
 1. Official Docs - https://docs.soliditylang.org/en/v0.8.15/assembly.html
 
 2. Tutorial by Jean Cvllr - https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c
@@ -22,3 +21,7 @@ Here is the list of resources I'm using to learn Assembly.
 9. A Practical Introduction To Solidity Assembly: Part 2 by Naveen - https://mirror.xyz/0xB38709B8198d147cc9Ff9C133838a044d78B064B/Hh69VJWM5eiFYFINxYWrIYWcRRtPm8tw3VFjpdpx6T8
 
 10. Yul EVM Dialect - https://docs.soliditylang.org/en/v0.8.13/yul.html#evm-dialect
+
+11. EVM: From Solidity to byte code, memory and storage - https://www.youtube.com/watch?v=RxL_1AfV7N4&t
+
+12. Rari Capital Solmate Contracts - https://github.com/Rari-Capital/solmate/tree/main/src
