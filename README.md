@@ -25,3 +25,5 @@ Here is the list of resources I'm using to learn Assembly.
 11. EVM: From Solidity to byte code, memory and storage - https://www.youtube.com/watch?v=RxL_1AfV7N4&t
 
 12. Rari Capital Solmate Contracts - https://github.com/Rari-Capital/solmate/tree/main/src
+
+13. Ethereum Yellow Paper - https://ethereum.github.io/yellowpaper/paper.pdf
