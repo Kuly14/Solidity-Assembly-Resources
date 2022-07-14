@@ -1,5 +1,10 @@
 # Solidity Assembly Resources
 
+In this repo I added all resources I'm using to learn Assembly. There are also some contracts in
+the contracts folder you can learn from.
+
+Some of the contracts are not mine I just added them because they are a great resource.
+
 Here is the list of resources I'm using to learn Assembly.
 
 1. Official Docs - https://docs.soliditylang.org/en/v0.8.15/assembly.html
@@ -27,3 +32,5 @@ Here is the list of resources I'm using to learn Assembly.
 12. Rari Capital Solmate Contracts - https://github.com/Rari-Capital/solmate/tree/main/src
 
 13. Ethereum Yellow Paper - https://ethereum.github.io/yellowpaper/paper.pdf
+
+14. Bitwise Operations and Bit Manipulation in Solidity, Ethereum - https://medium.com/@imolfar/bitwise-operations-and-bit-manipulation-in-solidity-ethereum-1751f3d2e216
