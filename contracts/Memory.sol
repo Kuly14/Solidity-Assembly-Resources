@@ -6,7 +6,7 @@ pragma solidity 0.8.7;
 contract Memory {
     receive() external payable {}
 
-    function show(
+    function StoreMemory(
         address to,
         address from,
         uint x
