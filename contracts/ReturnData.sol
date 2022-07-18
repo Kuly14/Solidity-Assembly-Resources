@@ -31,7 +31,7 @@ contract ReturnData {
                 revert(0, 0)
             }
 
-            // Get the size of the calldata.
+            // Get the size of the return data
             let size := returndatasize()
 
             // We copy the return data to memory
