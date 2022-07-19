@@ -5,7 +5,13 @@ the contracts folder you can learn from.
 
 Some of the contracts are not mine I just added them because they are a great resource.
 
-Here is the list of resources I'm using to learn Assembly.
+### Here are my articles on this topic:
+
+1. Solidit Assembly By Example Part 1 - https://medium.com/@kulman.david/solidity-assembly-by-example-part-1-b58d6de9c1cd
+
+2. How to use Remix Debugger to Learn Solidity Assembly - https://medium.com/@kulman.david/how-to-use-remix-debugger-to-learn-solidity-assembly-5a745a22bb07
+
+### Here is the list of resources I'm using to learn Assembly.
 
 1. Official Docs - https://docs.soliditylang.org/en/v0.8.15/assembly.html
 
