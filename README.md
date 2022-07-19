@@ -34,3 +34,5 @@ Here is the list of resources I'm using to learn Assembly.
 13. Ethereum Yellow Paper - https://ethereum.github.io/yellowpaper/paper.pdf
 
 14. Bitwise Operations and Bit Manipulation in Solidity, Ethereum - https://medium.com/@imolfar/bitwise-operations-and-bit-manipulation-in-solidity-ethereum-1751f3d2e216
+
+15. EVM Deep Dives Series by noxx - https://noxx.substack.com/
