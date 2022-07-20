@@ -30,7 +30,7 @@ contract Box {
 
             // The value is now stored on the stack so if we want to
             // return it we have to store it in memory.
-            // We use the mstore opcode we store the value at 0x80 address
+            // We use the mstore opcode and we store the value at 0x80 address
             mstore(0x80, value)
 
             // Now we can just return the value. We first specify the memory location
