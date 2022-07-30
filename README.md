@@ -42,3 +42,5 @@ Some of the contracts are not mine I just added them because they are a great re
 14. Bitwise Operations and Bit Manipulation in Solidity, Ethereum - https://medium.com/@imolfar/bitwise-operations-and-bit-manipulation-in-solidity-ethereum-1751f3d2e216
 
 15. EVM Deep Dives Series by noxx - https://noxx.substack.com/
+
+16. A Playdate with the EVM - https://femboy.capital/evm-pt1
