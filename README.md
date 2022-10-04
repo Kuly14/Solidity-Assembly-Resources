@@ -46,3 +46,5 @@ Some of the contracts are not mine I just added them because they are a great re
 16. A Playdate with the EVM - https://femboy.capital/evm-pt1
 
 17. EVM Opcodes - https://ethervm.io/
+
+18. Huff Languge - https://docs.huff.sh/
