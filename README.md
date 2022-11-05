@@ -1,10 +1,5 @@
 # Solidity Assembly Resources
 
-In this repo I added all resources I'm using to learn Assembly. There are also some contracts in
-the contracts folder you can learn from.
-
-Some of the contracts are not mine I just added them because they are a great resource.
-
 ### Here are my articles on this topic:
 
 1. Solidit Assembly By Example Part 1 - https://medium.com/@kulman.david/solidity-assembly-by-example-part-1-b58d6de9c1cd
