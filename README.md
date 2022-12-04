@@ -43,3 +43,5 @@
 17. EVM Opcodes - https://ethervm.io/
 
 18. Huff Languge - https://docs.huff.sh/
+
+19. TutorialsPoint Solidity Assembly - https://www.tutorialspoint.com/solidity/solidity_assembly.htm
