@@ -12,7 +12,7 @@ contract AbiEncode {
 
     // To abi.encode() in inline assembly, we will need to prepend 2 32-long bytes of information.
     // 1. Return data offset - This is an offset to the start of the data.
-    // 2. Length of the data - If we want to return, let's say, two whole words, so 65 bytes we will have to tell evm that we want to return 64 bytes. 
+    // 2. Length of the data - If we want to return, let's say, two whole words, so 64 bytes we will have to tell evm that we want to return 64 bytes. 
     // so we prepend the lengthof the data
     // 3. Your data
 
