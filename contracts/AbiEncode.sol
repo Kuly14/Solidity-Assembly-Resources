@@ -16,7 +16,7 @@ contract AbiEncode {
     // so we prepend the lengthof the data
     // 3. Your data
 
-    function encode() public view reutrns(bytes memory) {
+    function encode() public view returns(bytes memory) {
         assembly {
             let res := 0x00                     // Take memory location
             mstore(res, 0x20)                   // return data offset
